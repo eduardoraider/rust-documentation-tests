@@ -42,7 +42,7 @@ Make sure you have Rust and Cargo installed on your system. If not, you can inst
    cargo test
    ```
 
-1. Run documentation tests:
+2. Run documentation tests:
 
    ```bash
    cargo test --doc
